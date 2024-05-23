@@ -18,3 +18,31 @@ This comprehensive course, taught by [Instructor Name], dives deep into the fund
 ## 📁 Repository Structure
 
 This repository is organized into different sections, each corresponding to a specific module of the course. Each section contains detailed explanations, code implementations, and relevant examples.
+
+
+## 🚀 Technologies Used
+
+**Programming Language:** JavaScript, Python, and Java  
+**Tools:** Visual Studio Code, Git, GitHub  
+**Course Platform:** Udemy
+
+## 🤝 Contributing
+
+I welcome contributions from fellow learners and developers! If you have improvements, additional exercises, or solutions, feel free to submit a pull request. Please ensure your contributions align with the structure and style of the repository.
+
+## 📬 Contact
+
+For any questions, suggestions, or collaboration opportunities, please reach out to me at:
+
+**Email:** miltonmln357@gmail.com  
+**LinkedIn:** [linkedin.com/in/murray-milton](https://linkedin.com/in/murray-milton)
+
+## 🌐 Follow My Journey
+
+Stay updated with my latest projects and coding journey:
+
+**GitHub:** [github.com/murraymilton](https://github.com/murraymilton)  
+**Portfolio:** [murraymilton.github.io/portfolio](https://murraymilton.github.io/portfolio)
+
+Thank you for visiting my repository! I hope you find the resources and implementations helpful in mastering data structures and algorithms. Happy coding!
+
